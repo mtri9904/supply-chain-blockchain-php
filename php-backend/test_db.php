@@ -1,4 +1,5 @@
 <?php
+//http://localhost/supply-chain-blockchain-php/php-backend/test_db.php "chạy xem kết nối DB thành công không" nhớ chạy WAMSERVER trước, tạo db_name mới kết nối thành công
 header('Content-Type: text/html; charset=utf-8');
 
 require_once(dirname(__FILE__) . "/config/database.php");
